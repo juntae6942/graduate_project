@@ -1,6 +1,6 @@
-뮤즈(Musee)
+뮤모션(Mumotion)
 ---
-<img src="[https://github.com/user-attachments/assets/c40353c9-8570-4ec6-99da-466e8159e327](https://www.figma.com/design/A6GatuhCjWqSTozT46IqB6/2025-%EC%A1%B8%ED%94%84?node-id=27-544&t=UT1fvncvFtnr1Qi3-1)" width="500px"/>
+<img src="(https://www.figma.com/design/A6GatuhCjWqSTozT46IqB6/2025-%EC%A1%B8%ED%94%84?node-id=27-544&t=UT1fvncvFtnr1Qi3-1)" width="500px"/>
 
 <br> <br>
 
