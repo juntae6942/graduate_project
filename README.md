@@ -1,6 +1,6 @@
 뮤모션(Mumotion)
 ---
-<img src="![Image](https://github.com/user-attachments/assets/a2fa69d3-1e88-4249-a8ef-d8a01e737c90)" width="500px"/>
+![Image](https://github.com/user-attachments/assets/a2fa69d3-1e88-4249-a8ef-d8a01e737c90)"
 
 <br> <br>
 
