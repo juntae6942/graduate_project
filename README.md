@@ -1,6 +1,7 @@
 뮤모션(Mumotion)
 ---
-<img src="(https://www.figma.com/design/A6GatuhCjWqSTozT46IqB6/2025-%EC%A1%B8%ED%94%84?node-id=27-544&t=UT1fvncvFtnr1Qi3-1)" width="500px"/>
+<img src="![ChatGPT_Image_2025_5_23_09_23_11](https://github.com/user-attachments/assets/b36c5c61-429c-45cd-893d-9b29c99985e8)
+" width="500px"/>
 
 <br> <br>
 
