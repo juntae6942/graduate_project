@@ -1,7 +1,6 @@
 뮤모션(Mumotion)
 ---
-<img src="![ChatGPT_Image_2025_5_23_09_23_11](https://github.com/user-attachments/assets/b36c5c61-429c-45cd-893d-9b29c99985e8)
-" width="500px"/>
+<img src="![Image](https://github.com/user-attachments/assets/a2fa69d3-1e88-4249-a8ef-d8a01e737c90)" width="500px"/>
 
 <br> <br>
 
