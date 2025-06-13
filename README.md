@@ -1,6 +1,7 @@
 뮤모션(Mumotion)
 ---
-<img src="(https://www.figma.com/design/A6GatuhCjWqSTozT46IqB6/2025-%EC%A1%B8%ED%94%84?node-id=27-544&t=UT1fvncvFtnr1Qi3-1)" width="500px"/>
+<img src="w![Uploading 로고.svg…]()"
+idth="500px"/>
 
 <br> <br>
 
