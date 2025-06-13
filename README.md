@@ -22,6 +22,6 @@
     <tr>
       <td align="center"><a href="https://github.com/juntae6942"><img src="https://avatars.githubusercontent.com/u/65760583?v=4" width="100px;" alt=""/><br /><sub><b>박준태</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/"><img src="https://github.com/user-attachments/assets/683994fe-db35-4e81-b19e-c3d26eee2127" width="100px"; alt=""/><br /><sub><b>윤민지</b></sub></a><br /></td>
-      <td align="center"><a href="[https://github.com/](https://github.com/daeun0726)"><img src="https://avatars.githubusercontent.com/u/86146265?v=4" width="100px;" alt=""/><br /><sub><b>이다은</b></sub></a><br /></td>
+      <td align="center"><a href="[https://github.com/](https://github.com/daeun0726)"><img src="https://avatars.githubusercontent.com/u/82196822?v=4" width="100px;" alt=""/><br /><sub><b>이다은</b></sub></a><br /></td>
   </tbody>
 </table>
