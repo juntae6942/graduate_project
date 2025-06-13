@@ -1,7 +1,7 @@
 뮤모션(Mumotion)
 ---
 ![Image](https://github.com/user-attachments/assets/a2fa69d3-1e88-4249-a8ef-d8a01e737c90)
-
+![Image](https://github.com/user-attachments/assets/969b3edb-7b2f-4ce0-921a-19a2bb3e5ed8)
 <br> <br>
 
 나만을 위한 음악 큐레이션을 통한 감정 안정화 서비스  - **사용자 맞춤 심리 안정 음악 추천 플랫폼, 뮤모션(Mumotion)**
