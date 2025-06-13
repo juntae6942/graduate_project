@@ -1,7 +1,7 @@
 뮤모션(Mumotion)
 ---
-<img src="w![Uploading 로고.svg…]()"
-idth="500px"/>
+<img src="![Uploading 로고.svg…]()
+" width="500px"/>
 
 <br> <br>
 
