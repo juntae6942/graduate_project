@@ -1,6 +1,6 @@
 뮤모션(Mumotion)
 ---
-![Image](https://github.com/user-attachments/assets/a2fa69d3-1e88-4249-a8ef-d8a01e737c90)"
+![Image](https://github.com/user-attachments/assets/a2fa69d3-1e88-4249-a8ef-d8a01e737c90)
 
 <br> <br>
 
